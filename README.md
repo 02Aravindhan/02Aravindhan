@@ -37,6 +37,18 @@
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=02aravindhan&" alt="02aravindhan" /></p>
 
+# <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+   
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0CF731&width=435&lines=%E2%9C%A8Github_status" alt="Typing SVG" /></a>
+<br/>
+<p align="center">
+	<a href="https://github.com/ragu8">
+	<img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ragu8&show_icons=true" alt="ragu8">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ragu8&langs_count=8&layout=compact" alt="ragu8">
+	</a>
+	<br/>
+
+
 
 	
   <div align="center"> 	
