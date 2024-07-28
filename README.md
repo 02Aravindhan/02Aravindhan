@@ -2,7 +2,7 @@
                                         
                                      Cloud Engineer Intern @CloudSlize
 
-   ![Untitled Diagram](https://github.com/user-attachments/assets/1136a4b4-68c2-4825-abca-4293e5bd3bf4)
+  <img align="left" width="100" height="100" ![Untitled Diagram](https://github.com/user-attachments/assets/1136a4b4-68c2-4825-abca-4293e5bd3bf4)
 
    
    
