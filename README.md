@@ -1,8 +1,6 @@
-                                           Hi  👋,   I'm    ARAVINDHAN.S
+                                         Hi  👋,   I'm   ARAVINDHAN.S
 
-                                            
-                                             
-                                           Cloud Engineer Intern @CloudSlize
+                                         Cloud Engineer Intern @CloudSlize
 
    - 🔭 I’m currently working on **CloudSlize**
 
@@ -10,7 +8,7 @@
 
    - 📫 How to reach me **aravindhas121@gmail.com , https://github.com/02Aravindhan , https://www.linkedin.com/in/aravindhan-s-530731301**
 
-   - ⚡I’m Working On **Terraform project task on 02Aravindhan/project (github.com)**
+   - ⚡I’m Working On **Terraform project task on (https://github.com/02Aravindhan/project.git)
 
          
  
