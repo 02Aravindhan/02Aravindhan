@@ -36,12 +36,12 @@
  
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=02Aravindhan&show_icons=true&locale=en" alt="02Aravindhan" /></p>
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Aaravindhan&" alt="02Aravindhan" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Aravindhan&" alt="02Aravindhan" /></p>
 
 <br>
 </p>	
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=02Aravindhan" alt="02ARavindhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=02Aravindhan" alt="02Aravindhan" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -57,8 +57,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=02Aravindhan&bg_color=000000&color=01f002&line=01f002&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=02Aravindhan&bg_color=000000&color=01f002&line=01f002&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
