@@ -23,7 +23,8 @@
 
    - ⚡I’m Working On **Terraform project task on (https://github.com/02Aravindhan/project.git)
 
-   
+   - 📫 How to reach me :
+<br/> <a href="mailto:aravindhans121@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aravindhan-s-530731301) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/02Aravindhan/)  <a href="mailto:aravid@cloudslize.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
@@ -51,8 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- <!-- <img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-	
+ 
   <div align="center"> 	
 	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" 
     width="40" height="40"/> </a>
@@ -63,12 +63,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![Aravindhan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=02Aravindhan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://ashutosh00710.github.io/github-readme-activity-graph/?)
 
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
