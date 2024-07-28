@@ -11,8 +11,7 @@
    - 🔭 I’m currently working on **CloudSlize**
  
    - 🌱 I’m currently learning **Cloud Services(Microsoft Azure), Terraform.**
-
-   - 📫 How to reach me **aravindhas121@gmail.com , https://github.com/02Aravindhan , https://www.linkedin.com/in/aravindhan-s-530731301**
+ 
 
    - ⚡I’m Working On **Terraform project task on (https://github.com/02Aravindhan/project.git)
 
