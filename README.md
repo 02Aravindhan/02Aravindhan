@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Services(Microsoft Azure), Terraform.**
 
-- 📫 How to reach me **aravindhas121@gmail.com , 02Aravindhan (Aravindhan) (github.com) , https://www.linkedin.com/in/aravindhan-s-530731301**
+- 📫 How to reach me **aravindhas121@gmail.com , https://github.com/02Aravindhan , https://www.linkedin.com/in/aravindhan-s-530731301**
 
 - ⚡I’m Working On **Terraform project task on 02Aravindhan/project (github.com)**
 
