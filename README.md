@@ -2,7 +2,7 @@
   Hi  👋,   I'm   ARAVINDHAN.S
 
 	
-   Cloud Engineer Intern @CloudSlize
+   Cloud Engineer Intern @ CloudSlize
   </h1>
 
     
