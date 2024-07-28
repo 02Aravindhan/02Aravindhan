@@ -2,7 +2,7 @@
                                         
                                      Cloud Engineer Intern @CloudSlize
 
-  <img align="left" width="300" height="300"> ![Untitled Diagram](https://github.com/user-attachments/assets/1136a4b4-68c2-4825-abca-4293e5bd3bf4)
+ 
 
   <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -11,7 +11,7 @@
    
    
    
-   - 🔭 I’m currently working on **CloudSlize**
+  - 🔭 I’m currently working on **CloudSlize**
  
    - 🌱 I’m currently learning **Cloud Services(Microsoft Azure), Terraform.**
  
