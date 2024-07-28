@@ -6,8 +6,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines= Hi 👋 I'm   ARAVINDHAN.S >
   </a>
 </h1>
+<BR> 
+<h3>An enthusiastic Data Analyst based in Hosur 🇮🇳, with a strong passion for uncovering meaningful insights through the application of data science techniques.</h3>
 
-<BR>                                  
+
+
                                      Cloud Engineer Intern @CloudSlize
 
  
