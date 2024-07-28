@@ -34,9 +34,9 @@
 
        
  
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=02aravindhan&show_icons=true&locale=en" alt="02Aravindhan" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=02Aravindhan&show_icons=true&locale=en" alt="02Aravindhan" /></p>
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=02aravindhan&" alt="02aravindhan" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Aaravindhan&" alt="02Aravindhan" /></p>
 
 <br>
 </p>	
