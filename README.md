@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aravindhan-s-530731301" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravindhan-s-530731301" height="30" width="40" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasan2022" alt="02Aravindhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="02Aravindhan" alt="02Aravindhan" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
