@@ -22,6 +22,19 @@
 
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=02aravindhan&" alt="02aravindhan" /></p>
 
+    ## Image processing
+	
+  <div align="center"> 	
+	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+	
+</div>	
+	
+	
+	
+	
+</td></tr></table> 
+
+
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=02aravindhan" 
    alt="02aravindhan" /></a> </p>
 
