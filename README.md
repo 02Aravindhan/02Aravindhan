@@ -24,3 +24,7 @@
 
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=02aravindhan" 
    alt="02aravindhan" /></a> </p>
+   
+    < [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph? 
+    (https://github.com/ashutosh00710/github-readme- 
+    activity-graph)>
