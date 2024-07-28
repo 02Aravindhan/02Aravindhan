@@ -1,10 +1,11 @@
  <h1 align="center">                
   Hi  👋,   I'm   ARAVINDHAN.S
-	 Cloud Engineer Intern @CloudSlize
 
-<h1 align="center">
+	 <h1 align="center">
+   Cloud Engineer Intern @CloudSlize
   </h1>
-	 
+
+    
 
  
 
